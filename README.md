@@ -8,7 +8,7 @@ An online store for electric bicycles, built with Next.js 16 (App Router), Tailw
 - **Ordering on WhatsApp**: checkout saves the order and opens WhatsApp with the order already typed out for the customer. No online payment.
 - **Admin panel** at `/admin`: add, edit, hide or delete bikes, see orders and update their status. Protected by a single password.
 
-## Run locally
+## Run locally 
 
 1. Install Node.js 20.9+ and have MongoDB available (a local server or a free MongoDB Atlas cluster).
 2. Copy the env template and fill it in:
