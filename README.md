@@ -55,7 +55,7 @@ src/
     admin/(panel)/    dashboard, bikes and orders (all behind requireAdmin)
   components/         UI pieces: product card, bike illustration, cart store
   lib/                database access, auth, validation, WhatsApp message builder
-```
+``` 
 
 ## Notes
 
