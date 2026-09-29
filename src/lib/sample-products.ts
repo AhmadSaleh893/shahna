@@ -9,8 +9,8 @@ export const SAMPLE_PRODUCTS: ProductInput[] = [
     nameEn: "Urban Glide 500",
     brand: "Shahna",
     category: "city",
-    price: 1490,
-    compareAtPrice: 1690,
+    price: 5490,
+    compareAtPrice: 6290,
     description:
       "دراجتنا الأكثر مبيعًا للتنقّل اليومي. محرك هادئ بقوة 500 واط في العجلة الخلفية، وجلسة مستقيمة مريحة، وأضواء مدمجة تجعل أوربان جلايد أسهل طريقة لعبور المدينة دون أن تصل متعرّقًا. البطارية المدمجة في الإطار قابلة للفك لتشحنها على مكتبك.",
     descriptionEn:
@@ -28,7 +28,7 @@ export const SAMPLE_PRODUCTS: ProductInput[] = [
     nameEn: "Ridge Runner 750",
     brand: "Shahna",
     category: "mountain",
-    price: 2890,
+    price: 10690,
     compareAtPrice: null,
     description:
       "دراجة جبلية صُمّمت للصعود. محرك 750 واط وشوكة تعليق بمدى 120 ملم يجعلان المسارات الصخرية الحادة سهلة، وإطارات عريضة بقياس 2.6 إنش تثبّتك على الأرض الرخوة. ومكابح قرصية هيدروليكية تمنحك توقفًا واثقًا في طريق النزول.",
@@ -47,7 +47,7 @@ export const SAMPLE_PRODUCTS: ProductInput[] = [
     nameEn: "Pocket Fold 350",
     brand: "Shahna",
     category: "folding",
-    price: 990,
+    price: 3690,
     compareAtPrice: null,
     description:
       "تُطوى في أقل من 15 ثانية لتتسع في صندوق السيارة أو في زاوية شقة صغيرة. عجلات 20 إنش تجعلها رشيقة وسط الزحام، ومحرك 350 واط يتعامل مع الطلعات بسهولة.",
@@ -66,8 +66,8 @@ export const SAMPLE_PRODUCTS: ProductInput[] = [
     nameEn: "Family Hauler",
     brand: "Shahna",
     category: "cargo",
-    price: 3290,
-    compareAtPrice: 3590,
+    price: 12190,
+    compareAtPrice: 13290,
     description:
       "دراجة حمولة طويلة تتحمل حتى 200 كغ. احمل طفلين، أو مشتريات أسبوع كامل، أو صناديق التوصيل. جاهزة لبطارية ثانية، ومعها حامل وسطي يبقيها ثابتة أثناء التحميل.",
     descriptionEn:
@@ -85,7 +85,7 @@ export const SAMPLE_PRODUCTS: ProductInput[] = [
     nameEn: "Swift Road 250",
     brand: "Shahna",
     category: "road",
-    price: 2390,
+    price: 8790,
     compareAtPrice: null,
     description:
       "تبدو وتسير كدراجة طريق عادية، مع مساعدة خفية بقوة 250 واط لمواجهة الرياح والطلعات الطويلة. وزنها 15 كغ فقط، فهي خفيفة بما يكفي لتركبها والمحرك مطفأ.",
@@ -104,7 +104,7 @@ export const SAMPLE_PRODUCTS: ProductInput[] = [
     nameEn: "Metro Step-Through",
     brand: "Shahna",
     category: "city",
-    price: 1290,
+    price: 4790,
     compareAtPrice: null,
     description:
       "إطار منخفض يسهّل الصعود والنزول بأي لباس. تأتي مع سلة أمامية وحامل خلفي وواقيات طين كاملة، فهي جاهزة للمشاوير من اليوم الأول.",

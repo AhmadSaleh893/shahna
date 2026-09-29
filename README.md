@@ -1,4 +1,4 @@
-# Shahna (شحنة)
+# Shahna (شَحْنَة)
 
 An online store for electric bicycles, built with Next.js 16 (App Router), Tailwind CSS 4 and MongoDB.
 
@@ -31,7 +31,7 @@ An online store for electric bicycles, built with Next.js 16 (App Router), Tailw
 | `ADMIN_PASSWORD` | yes | Password for `/admin` |
 | `SESSION_SECRET` | yes | Random string of 32+ characters that signs the admin cookie |
 | `WHATSAPP_NUMBER` | recommended | Number that receives orders, international format, digits only (e.g. `970599123456`) |
-| `NEXT_PUBLIC_CURRENCY` | no | ISO currency code for prices (default `USD`) |
+| `NEXT_PUBLIC_CURRENCY` | no | ISO currency code for prices (default `ILS`) |
 
 All text lives in `src/lib/i18n/ar.ts` (Arabic, the main language) and `src/lib/i18n/en.ts`: store name, tagline, city, hours and every label. The email and the admin time zone are in `src/lib/site.ts`. Bikes are entered in Arabic, and each bike has optional English name and description fields; English visitors see the Arabic text when those are empty.
 

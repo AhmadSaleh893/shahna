@@ -9,7 +9,8 @@ import { ListingControls } from "./listing-controls";
 
 export const dynamic = "force-dynamic";
 
-const PRICE_STEPS = [1000, 1500, 2000, 3000];
+// Price filter options, in ILS.
+const PRICE_STEPS = [4000, 6000, 8000, 12000];
 
 function pick(value: string | string[] | undefined) {
   return Array.isArray(value) ? value[0] : value;

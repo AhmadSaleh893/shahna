@@ -6,4 +6,4 @@ export const site = {
   timeZone: "UTC",
 };
 
-export const CURRENCY = process.env.NEXT_PUBLIC_CURRENCY || "USD";
+export const CURRENCY = process.env.NEXT_PUBLIC_CURRENCY || "ILS";
